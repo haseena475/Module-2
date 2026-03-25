@@ -22,7 +22,18 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
+NAME:DUDEKULA HASEENA
+REG NUMBER:212222063004
+
+def result(a, b, c):
+    mul =a*b*c
+    print("Multiply is",mul)   
+a=int(input())
+b=int(input())
+c=int(input())
 ```
 ### OUTPUT
+<img width="944" height="415" alt="image" src="https://github.com/user-attachments/assets/5adf566c-362f-4287-9501-47e397e7eef0" />
 
 ### RESULT
+Thus a Python program to compute the multiplication of a given number using function was executed and implemented successfully.
